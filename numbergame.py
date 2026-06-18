@@ -2,7 +2,7 @@
 def gg ():
     import random 
     a=random.randint(1,100)
-    print (a)
+    #print (a)
     x=0
     while True :
       b=int(input ("enter your guess"))
